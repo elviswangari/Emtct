@@ -1,4 +1,3 @@
-```markdown
 # EMTCT Project Readme
 
 ## Overview
@@ -68,4 +67,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 We would like to express our gratitude to all contributors and supporters of the EMTCT project.
-```
