@@ -53,6 +53,12 @@ To set up and run the EMTCT project locally, follow these steps:
    ```
 
 6. Set up the MySQL database and configure the connection in the `.env` file.
+7. Perform a migration of the db
+
+   ```bash
+   php artisan migrate
+   ```
+
 8. Start the Laravel development server:
 
    ```bash
