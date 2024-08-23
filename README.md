@@ -23,30 +23,42 @@ EMTCT aligns with the broader vision of ending HIV in children. By focusing on p
 To set up and run the EMTCT project locally, follow these steps:
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/olochom/Emtct.git
    ```
+
 2. Navigate to the project directory:
+
    ```bash
    cd Emtct
    ```
+
 3. Install Laravel dependencies using Composer:
+
    ```bash
    composer install
    ```
+
 4. Copy the `.env.example` file and rename it to `.env`:
+
    ```bash
    cp .env.example .env
    ```
+
 5. Generate an application key:
+
    ```bash
    php artisan key:generate
    ```
+
 6. Set up the MySQL database and configure the connection in the `.env` file.
 8. Start the Laravel development server:
+
    ```bash
    php artisan serve
    ```
+
 9. Access the application via the provided URL and explore its features.
 
 ## How to Contribute
